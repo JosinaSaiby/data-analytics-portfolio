@@ -32,3 +32,28 @@ Welcome to my GitHub Profile!
 - GitHub: JosinaSaiby
 
 Thank you for visiting my profile!
+
+
+
+## Project 1: KSRTC Data Analysis
+
+### Objective
+To analyze KSRTC data using Python and understand useful patterns from the dataset.
+
+### Tools & Technologies
+- Python
+- Google Colab
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### Key Activities
+- Data loading and exploration
+- Data cleaning
+- Data analysis
+- Data visualization
+
+### Project File
+KSRTC_data_analytics.ipynb
+
